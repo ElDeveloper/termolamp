@@ -1,0 +1,6 @@
+# taken from:
+# https://github.com/AngleVu/AltiumCourse/blob/master/.gitignore
+*.SchDoc.Zip
+*.SchDocPreview
+*.PrjPcb.Zip
+*.PcbLib.Zip
